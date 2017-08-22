@@ -19,7 +19,7 @@ int main(int argc, char* argv[])
 	if (argc >= 2)// если есть адрес и параметр
 	{
 		
-		//adr = argv[1];
+		adr = argv[1];
 		
 
 			ifstream fin(adr);
